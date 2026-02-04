@@ -4,11 +4,11 @@ This project is my **capstone Final Year Project** during my Software Engineerin
 
 ## Project Overview
 
-- **Project Name:** [Insert Project Name]  
+- **Project Name:** LUNA: Bridging communication with sign language translation
 - **Type:** iOS Mobile App Development & Testing  
-- **Platform:** iOS (mention Android if applicable)  
-- **Objective:** Develop a functional mobile application with end-to-end features and ensure quality through testing  
-- **Focus Areas:** User authentication, form handling, navigation, UI/UX, and data management  
+- **Platform:** iOS
+- **Objective:** Develop a functional mobile application integrated with smart glove
+- **Focus Areas:** Functionalities and Accuracy response time  
 
 ## Artifacts
 
@@ -20,10 +20,10 @@ This project is my **capstone Final Year Project** during my Software Engineerin
 
 ## Development & Testing Approach
 
-- Developed using [Swift/Xcode or Flutter]  
-- Performed functional testing, UI testing, and basic QA on the app  
-- Ensured proper navigation, input validation, and user-friendly interface  
-- Applied technical documentation best practices in the Technical Report
+- Developed using Flutter in Macbook  
+- Executed manual functional testing and performance testing to validate real-time text display latency and system stability.
+- Performed integration and basic performance testing to assess hardware-to-application data transmission, response time, and system stability.
+
 
 ## Achievement
 - FYP 1 - Most Promising Project Award (Innovatext Tech Expo, 2025)
