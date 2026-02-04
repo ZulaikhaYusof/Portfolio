@@ -15,14 +15,9 @@ This project contains my complete QA workflow for the **SauceDemo demo e-commerc
 
 | Artifact | Description | Link |
 |----------|-------------|------|
-| Test Plan | Outlines the scope, objectives, approach, and resources for testing SauceDemo. | [View Test Plan](https://docs.google.com/document/d/1stG-zlG6Mqw49ml5lrtcYJElmupJHLbjNQm2YwYCWE0/edit?usp=sharing) |
-| Test Scenarios & Test Cases | Combined file containing all test scenarios and detailed test cases, including positive and negative testing. | [View Test Scenarios & Test Cases](https://docs.google.com/spreadsheets/d/1yyahdDLawxCf-lQkivvbRdQf9P4I3lpD8oyYm7Am_-k/edit?usp=sharing) |
-| Test Summary Report | Summarizes results, coverage, and issues found during testing. | [View Test Summary Report](https://docs.google.com/document/d/110EKuzLj7iWpNKbVmETUUrQsVUwmuqDR5xl2tva5jxM/edit?usp=sharing) |
-
-## Screenshots
-
-Screenshots for test execution, bug evidence, and validation are available here:  
-[View Screenshots](screenshots/)
+| Test Plan | Outlines the scope, objectives, approach, and resources for testing SauceDemo. | [View](https://docs.google.com/document/d/1stG-zlG6Mqw49ml5lrtcYJElmupJHLbjNQm2YwYCWE0/edit?usp=sharing) |
+| Test Scenarios, Test Cases & Bug Report | Combined file containing all test scenarios, detailed test cases, including positive and negative testing and bug report documentation | [View](https://docs.google.com/spreadsheets/d/1yyahdDLawxCf-lQkivvbRdQf9P4I3lpD8oyYm7Am_-k/edit?usp=sharing) |
+| Test Summary Report | Summarizes results, coverage, and issues found during testing. | [View](https://docs.google.com/document/d/110EKuzLj7iWpNKbVmETUUrQsVUwmuqDR5xl2tva5jxM/edit?usp=sharing) |
 
 ## Testing Approach
 
