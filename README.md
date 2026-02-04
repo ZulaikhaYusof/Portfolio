@@ -10,7 +10,7 @@ Hi! I’m Zulaikha, a Software Engineering graduate from International Islamic U
 | Project | Type | Artifacts | Status | URL |
 |---------|------|-----------|--------|-------------|
 | SauceDemo E-commerce | QA Practice | Test Plan, Test Cases, Test Scenarios, Bug Reports | Completed | [Link](https://github.com/ZulaikhaYusof/Portfolio/blob/main/SauceDemo-Portfolio/README.md) |
-| Final Year Project (FYP) | iOS Mobile App Development, Testing | Documentation, Full Report | Completed | [Link](https://github.com/ZulaikhaYusof/LUNA_app/blob/main/README.md) |
+| Final Year Project (FYP) | iOS Mobile App Development, Testing | Documentation, Full Report | Completed | [Link](https://github.com/ZulaikhaYusof/Portfolio/blob/main/FYPREADME.md) |
 | Class Project | Shopee Web Testing | Test Plan, Test Cases | Completed | [Link](https://github.com/ZulaikhaYusof/Portfolio/blob/main/Class/Software%20Testing/README.md) |
 | Pawfect Project | Web App Development | Source code | Completed | [Link](https://github.com/ZulaikhaYusof/Pawfect/blob/main/README.md)|
 
@@ -23,4 +23,12 @@ Hi! I’m Zulaikha, a Software Engineering graduate from International Islamic U
 - Software: Jira, Google Workspace, Microsoft Office, Git/GitHub, Visual Studio Code, Firebase, Arduino IDE,
 - Design & Visual Tools: Figma, Canva, Draw.io
 
+## Learning & Growth
+- Expanding skills in **automation frameworks**, **CI/CD pipelines**, and **performance testing**.
+- Exploring advanced QA techniques such as **API automation**, **test-driven development (TDD)**, and **mobile app performance optimization**.
+- Continuously improving documentation and collaboration practices to support high-quality software delivery.
+
+## Contact
+- **Email:** zulaikhayusof02@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/zulaikha-yusof/](#)
 
