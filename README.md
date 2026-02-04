@@ -9,7 +9,7 @@ Hi! I’m Zulaikha, a Software Engineering graduate from International Islamic U
 
 | Project | Type | Artifacts | Status | URL |
 |---------|------|-----------|--------|-------------|
-| SauceDemo E-commerce | QA Practice | Test Plan, Test Cases, Test Scenarios, Bug Reports | Completed | [Link] |
+| SauceDemo E-commerce | QA Practice | Test Plan, Test Cases, Test Scenarios, Bug Reports | Completed | [Link](https://github.com/ZulaikhaYusof/Portfolio/blob/main/SauceDemo-Portfolio/README.md) |
 | Final Year Project (FYP) | iOS Mobile App Development, Testing | Documentation, Full Report | Completed | [Link] |
 | Class Project | Shopee Web Testing | Test Plan, Test Cases | Completed | [Link] |
 | Pawfect Project | Web App Development | Source code | Completed | [Link]|
